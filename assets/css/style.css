@@ -186,7 +186,6 @@ p {
     max-width: 150px;
 }
 
-
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -202,6 +201,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* End Benefits organization */
 
 /* Remove Period */
 footer {
@@ -215,3 +215,5 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+/* End CSS */
