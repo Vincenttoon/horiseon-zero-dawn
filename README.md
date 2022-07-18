@@ -1,6 +1,8 @@
+([](Screen%20Shot%202022-07-18%20at%2012.54.37%20PM.png))
+
 # horiseon-zero-dawn
 
-    Challenge 1
+Challenge 1
 
 # Live Deployment Link
 
