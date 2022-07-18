@@ -1,4 +1,4 @@
-([](Screen%20Shot%202022-07-18%20at%2012.54.37%20PM.png))
+![Horiseon first glance screenshot](Screen%20Shot%202022-07-18%20at%2012.54.37%20PM.png)
 
 # horiseon-zero-dawn
 
